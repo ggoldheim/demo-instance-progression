@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:33</sys_created_on>
+        <sys_id>ccc5b64a3b03011083accb52608da161</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Result Reader Group for Document Approval Portal Search Configuration">4cc5b64aca03011083e3e68f45eb0861</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Personal Click Reader">ec49ee515b511010627eed35cc81c7b9</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_ccc5b64a3b03011083accb52608da161</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:33</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

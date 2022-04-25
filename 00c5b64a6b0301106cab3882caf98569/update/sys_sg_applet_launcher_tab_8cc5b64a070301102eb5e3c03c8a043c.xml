@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Instance Progression Demo">c0c5b64ab403011026e98771dc51113d</applet_launcher>
+        <icon display_value="Document Approvals">00c5b64adb0301103d77c8a6c8b3773d</icon>
+        <label>Dcoument Approval</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:21</sys_created_on>
+        <sys_id>8cc5b64a070301102eb5e3c03c8a043c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dcoument Approval</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_8cc5b64a070301102eb5e3c03c8a043c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:21</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

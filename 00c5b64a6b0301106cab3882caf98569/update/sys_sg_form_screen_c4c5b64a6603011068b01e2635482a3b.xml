@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">0cc5b64a630301109a80ac1cde1df63b</icon>
+        <item_view/>
+        <name>Document Approval</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:17</sys_created_on>
+        <sys_id>c4c5b64a6603011068b01e2635482a3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_form_screen_c4c5b64a6603011068b01e2635482a3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:17</sys_updated_on>
+        <table>x_794475_instanc_0_document_approver</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Document Approvals View Config">c0c5b64aae030110bfbe1130ff54583b</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c4c5b64a6603011068b01e2635482a3b"/>
+</record_update>

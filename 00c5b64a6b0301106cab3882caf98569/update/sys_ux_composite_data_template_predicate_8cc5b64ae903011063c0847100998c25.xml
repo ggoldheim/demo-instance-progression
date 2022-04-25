@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>number,name,submitter,description,approval_category,status,active,sys_created_on,sys_created_by,sys_updated_on,sys_updated_by,work_notes</field_list>
+        <name>document-view-config</name>
+        <order/>
+        <predicate_bundle display_value="document-approval-view-config-bundle">c4c5b64a860301106c3f8b0745c83826</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:13:55</sys_created_on>
+        <sys_id>8cc5b64ae903011063c0847100998c25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>document-view-config</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_8cc5b64ae903011063c0847100998c25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:13:55</sys_updated_on>
+        <table>x_794475_instanc_0_document_approval</table>
+        <ux_template display_value="doc-approval-view-all-template">00c5b64ac903011084779303aed21926</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

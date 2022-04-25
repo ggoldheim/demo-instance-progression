@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>text_06</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:20</sys_created_on>
+        <sys_id>00c5b64adb0301103056dcfda4c99738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_06</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_00c5b64adb0301103056dcfda4c99738</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:20</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="Document Approval View Template">4cc5b64a2a030110277e9cb3ac2ba938</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

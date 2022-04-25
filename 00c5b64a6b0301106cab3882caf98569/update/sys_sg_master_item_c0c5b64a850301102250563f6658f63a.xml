@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_794475_instanc_0_document_approver</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Document Approval">c4c5b64a6603011068b01e2635482a3b</embedded_screen>
+        <item_view/>
+        <name>New Document Aprpovals Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:33</sys_created_on>
+        <sys_id>c0c5b64a850301102250563f6658f63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Document Aprpovals Main Item</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_master_item_c0c5b64a850301102250563f6658f63a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:33</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Document Approvals View Config">c0c5b64aae030110bfbe1130ff54583b</view_config>
+    </sys_sg_master_item>
+</record_update>

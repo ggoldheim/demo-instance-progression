@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Instance Progression Demo Workspace">48c5b64a89030110fefca778c106e567</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c0c5b64a19030110c50452df1b6f9222</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_ux_page_property_c0c5b64a19030110c50452df1b6f9222</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:12</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_794475_instanc_0.48c5b64a89030110fefca778c106e567.root.globalSearchDataConfigId</unique_name>
+        <value>c4c5b64acb030110d4fcc30ef1014d64</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0c5b64a19030110c50452df1b6f9222"/>
+</record_update>
