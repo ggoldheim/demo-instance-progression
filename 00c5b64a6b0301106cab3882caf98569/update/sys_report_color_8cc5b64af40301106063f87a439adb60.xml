@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#81B5A1</color>
+        <display>background-color:#81B5A1</display>
+        <name>#81B5A1</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:07</sys_created_on>
+        <sys_id>8cc5b64af40301106063f87a439adb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>#81B5A1</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_report_color_8cc5b64af40301106063f87a439adb60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:07</sys_updated_on>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

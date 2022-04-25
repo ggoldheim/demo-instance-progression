@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ai_search_parent_title" label="ai_search_parent_title" language="en" table="var__m_sys_search_genius_result_field_adf56b8cb7c22010116b6871ce11a96b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ai_search_parent_title</element>
+            <help/>
+            <hint/>
+            <label>ai_search_parent_title</label>
+            <language>en</language>
+            <name>var__m_sys_search_genius_result_field_adf56b8cb7c22010116b6871ce11a96b</name>
+            <plural>ai_search_parent_title</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>998fbe62c3b60110bb4f49f9461e2b0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ai_search_parent_title</sys_name>
+            <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_search_genius_result_field_adf56b8cb7c22010116b6871ce11a96b_ai_search_parent_title_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-25 17:13:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

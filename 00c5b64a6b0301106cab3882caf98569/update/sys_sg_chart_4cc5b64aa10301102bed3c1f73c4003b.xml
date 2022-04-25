@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to document approvals this year">c8c5b64a9903011011a5d93ffec91e3c</jump_to_screen>
+        <name>Approvals This Year</name>
+        <report display_value="Approvals This Year">c0c5b64a89030110f8ab05d107152b42</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:13:39</sys_created_on>
+        <sys_id>4cc5b64aa10301102bed3c1f73c4003b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvals This Year</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_chart_4cc5b64aa10301102bed3c1f73c4003b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:13:39</sys_updated_on>
+        <title>Approvals This Year</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

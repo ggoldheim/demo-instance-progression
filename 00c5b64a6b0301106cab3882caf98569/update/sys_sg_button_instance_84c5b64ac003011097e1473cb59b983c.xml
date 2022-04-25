@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Return document">08c5b64af903011088e8fb1c3a09f73d</button>
+        <color_theme>secondary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Return</label>
+        <location>footer</location>
+        <name>Return</name>
+        <order>20</order>
+        <parent>c0c5b64a0803011001172cb5c18b9b3c</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:36</sys_created_on>
+        <sys_id>84c5b64ac003011097e1473cb59b983c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Return</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_button_instance_84c5b64ac003011097e1473cb59b983c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:36</sys_updated_on>
+        <table>x_794475_instanc_0_document_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=84c5b64ac003011097e1473cb59b983c"/>
+</record_update>

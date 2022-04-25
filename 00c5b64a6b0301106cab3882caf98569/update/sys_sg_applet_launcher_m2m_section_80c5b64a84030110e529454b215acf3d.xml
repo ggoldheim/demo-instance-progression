@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Instance Progression Demo">c0c5b64ab403011026e98771dc51113d</applet_launcher>
+        <order>20</order>
+        <section display_value="New Document Approvals">ccc5b64abb030110b3476535d1934d3c</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:07</sys_created_on>
+        <sys_id>80c5b64a84030110e529454b215acf3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_80c5b64a84030110e529454b215acf3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:07</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

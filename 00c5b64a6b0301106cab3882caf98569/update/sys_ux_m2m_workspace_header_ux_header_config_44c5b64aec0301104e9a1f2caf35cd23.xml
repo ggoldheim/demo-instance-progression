@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Document Approval Portal">ccc5b64aac0301100abdf3a3bd576c23</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:13:45</sys_created_on>
+        <sys_id>44c5b64aec0301104e9a1f2caf35cd23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_44c5b64aec0301104e9a1f2caf35cd23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:13:45</sys_updated_on>
+        <workspace_form_header display_value="x_794475_instanc_0_document_approval">8cc5b64ae4030110628014627f8ec45f</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

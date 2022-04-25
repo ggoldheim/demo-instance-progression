@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">80c5b64abe0301100371fb722ad5b531</macroponent>
+        <name>initializeSidebarRatio</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event 
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const DEFAULT_RATIO = 75;
+    const ratio = (api.data.getSidebarRatioPreference.result.preferences.length > 0) ?
+        api.data.getSidebarRatioPreference.result.preferences[0].value : DEFAULT_RATIO;
+
+    api.setState('sidebarDividerPosition', ratio);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-25 17:14:01</sys_created_on>
+        <sys_id>84c5b64a65030110671afd5bbc1dc027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>initializeSidebarRatio</sys_name>
+        <sys_package display_value="Instance Progression Demo" source="x_794475_instanc_0">00c5b64a6b0301106cab3882caf98569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Progression Demo">00c5b64a6b0301106cab3882caf98569</sys_scope>
+        <sys_update_name>sys_ux_client_script_84c5b64a65030110671afd5bbc1dc027</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-25 17:14:01</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
